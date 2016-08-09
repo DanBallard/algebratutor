@@ -1,5 +1,3 @@
 ;(function(){
-
-  
-    angular.module('at',[]) 
+    var myApp = angular.module('at', []);
 }) 

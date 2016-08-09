@@ -1,0 +1,22 @@
+{
+  "name": "algebratutor",
+  "version": "1.0.0",
+  "description": "Algebra Tutor for Students and Teachers To use",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natakin2016/algebratutor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natakin2016/algebratutor/issues"
+  },
+  "homepage": "https://github.com/natakin2016/algebratutor#readme",
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
